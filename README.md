@@ -1,7 +1,8 @@
 ## branch
 
 dev
-- stg 
+- stg
+- prd 
 
 ## Project Setup
 
