@@ -1,6 +1,7 @@
 ## branch
 
-dev 
+dev
+- stg 
 
 ## Project Setup
 
