@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "yjinlee99-jenkins-vue",	   
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
